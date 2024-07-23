@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CUDA\\temperature_makedll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A9B815-F29E-4F9F-ADA7-9F8F4DC66E3C}|temperature_makedll.vcxproj|D:\\Documents\\CUDA\\temperature_makedll\\main_2DtexObj.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70A9B815-F29E-4F9F-ADA7-9F8F4DC66E3C}|temperature_makedll.vcxproj|solutionrelative:main_2DtexObj.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A9B815-F29E-4F9F-ADA7-9F8F4DC66E3C}|temperature_makedll.vcxproj|D:\\Documents\\CUDA\\temperature_makedll\\common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70A9B815-F29E-4F9F-ADA7-9F8F4DC66E3C}|temperature_makedll.vcxproj|solutionrelative:common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A9B815-F29E-4F9F-ADA7-9F8F4DC66E3C}|temperature_makedll.vcxproj|D:\\Documents\\CUDA\\temperature_makedll\\main_2DtexObj.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70A9B815-F29E-4F9F-ADA7-9F8F4DC66E3C}|temperature_makedll.vcxproj|solutionrelative:main_2DtexObj.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "common.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_makedll\\common.cuh",
+              "RelativeDocumentMoniker": "common.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_makedll\\common.cuh",
+              "RelativeToolTip": "common.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T07:09:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main_2DtexObj.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_makedll\\main_2DtexObj.cu",
+              "RelativeDocumentMoniker": "main_2DtexObj.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_makedll\\main_2DtexObj.cu",
+              "RelativeToolTip": "main_2DtexObj.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T07:04:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_2DtexObj.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_makedll\\main_2DtexObj.cuh",
+              "RelativeDocumentMoniker": "main_2DtexObj.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_makedll\\main_2DtexObj.cuh",
+              "RelativeToolTip": "main_2DtexObj.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T06:50:31.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

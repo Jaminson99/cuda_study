@@ -1,0 +1,11 @@
+﻿  Compiling CUDA source file innerDot.cu...
+  
+  D:\Documents\CUDA\innerDot>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.38.33030\bin\HostX64\x64" -x cu   -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\innerDot\x64\Debug\innerDot.cu.obj "D:\Documents\CUDA\innerDot\innerDot.cu" 
+  innerDot.cu
+D:\Documents\CUDA\innerDot\innerDot.cu(111): warning C4018: “<”: 有符号/无符号不匹配
+D:\Documents\CUDA\innerDot\innerDot.cu(153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\CUDA\innerDot\innerDot.cu(158): warning C4018: “<”: 有符号/无符号不匹配
+D:\Documents\CUDA\innerDot\innerDot.cu(163): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\CUDA\innerDot\innerDot.cu(169): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\CUDA\innerDot\innerDot.cu(177): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  innerDot.vcxproj -> D:\Documents\CUDA\innerDot\x64\Debug\innerDot.exe

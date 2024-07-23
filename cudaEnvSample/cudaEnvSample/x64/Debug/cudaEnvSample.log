@@ -1,0 +1,9 @@
+﻿  Compiling CUDA source file test.cu...
+  
+  D:\Documents\CUDA\cudaEnvSample\cudaEnvSample>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_80,code=\"sm_80,compute_80\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.38.33030\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA Corporation\cuda-samples-11.4.1" -I"C:\Program Files\NVIDIA Corporation\cuda-samples-11.4.1\Common" -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -D_DEBUG -D_CONSOLE -D_UNICODE -DUNICODE -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\cudaEnvSample\cudaEnvSample\x64\Debug\test.cu.obj "D:\Documents\CUDA\cudaEnvSample\cudaEnvSample\test.cu" 
+  test.cu
+D:\Documents\CUDA\cudaEnvSample\cudaEnvSample\common.cuh(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\CUDA\cudaEnvSample\cudaEnvSample\test.cu(92): warning C4018: “<”: 有符号/无符号不匹配
+D:\Documents\CUDA\cudaEnvSample\cudaEnvSample\test.cu(96): warning C4018: “<”: 有符号/无符号不匹配
+D:\Documents\CUDA\cudaEnvSample\cudaEnvSample\test.cu(140): warning C4018: “<”: 有符号/无符号不匹配
+  cudaEnvSample.vcxproj -> D:\Documents\CUDA\cudaEnvSample\cudaEnvSample\x64\Debug\cudaEnvSample.exe

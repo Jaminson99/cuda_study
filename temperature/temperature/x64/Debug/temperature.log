@@ -1,0 +1,33 @@
+﻿  Skipping CUDA source file main.cu (excluded from build).
+  Compiling CUDA source file main_2DtexObj.cu...
+  Skipping CUDA source file main_texObj.cu (excluded from build).
+  
+  D:\Documents\CUDA\temperature>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_60,code=\"sm_80,compute_60\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.39.33218\bin\HostX64\x64" -x cu -rdc=true  -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir temperature\x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static -Xptxas -dlcm=ca -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdtemperature\x64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\temperature\temperature\x64\Debug\main_2DtexObj.cu.obj "D:\Documents\CUDA\temperature\main_2DtexObj.cu" 
+D:\Documents\CUDA\temperature\./common/cpu_anim.h(61): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+D:\Documents\CUDA\temperature\main_2DtexObj.cu(92): warning #177-D: variable "in" was declared but never referenced
+  
+D:\Documents\CUDA\temperature\./common/cpu_anim.h(61): warning #2464-D: conversion from a string literal to "char *" is deprecated
+  
+  main_2DtexObj.cu
+D:\Documents\CUDA\temperature\main_2DtexObj.cu(92): warning C4101: “in”: 未引用的局部变量
+  
+  D:\Documents\CUDA\temperature>"D:\CUDA\bin\nvcc.exe" -dlink -o temperature\x64\Debug\temperature.device-link.obj -Xcompiler "/EHsc /W3 /nologo /Od /Fdtemperature\x64\Debug\vc143.pdb /Zi /RTC1 /MDd " -LD:\CUDA\bin/crt -LD:\CUDA\bin -LD:\CUDA\lib\x64 cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib cudart.lib cudadevrt.lib  -gencode=arch=compute_60,code=sm_80 -G --machine 64 D:\Documents\CUDA\temperature\temperature\x64\Debug\common.cu.obj D:\Documents\CUDA\temperature\temperature\x64\Debug\main_2DtexObj.cu.obj 
+  cudart_static.lib
+  kernel32.lib
+  user32.lib
+  gdi32.lib
+  winspool.lib
+  comdlg32.lib
+  advapi32.lib
+  shell32.lib
+  ole32.lib
+  oleaut32.lib
+  uuid.lib
+  odbc32.lib
+  odbccp32.lib
+  cudart.lib
+  cudadevrt.lib
+  common.cu.obj
+  main_2DtexObj.cu.obj
+  temperature.vcxproj -> D:\Documents\CUDA\temperature\x64\Debug\temperature.exe

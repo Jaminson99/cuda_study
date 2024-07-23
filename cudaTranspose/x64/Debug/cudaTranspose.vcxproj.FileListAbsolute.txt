@@ -1,0 +1,1 @@
+D:\Documents\CUDA\cudaTranspose\x64\Debug\cudaTranspose.exe

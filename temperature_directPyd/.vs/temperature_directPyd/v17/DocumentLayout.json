@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CUDA\\temperature_directPyd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|D:\\Documents\\CUDA\\temperature_directPyd\\make_pyd.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|solutionrelative:make_pyd.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|D:\\Documents\\CUDA\\temperature_directPyd\\common.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|solutionrelative:common.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|D:\\Documents\\CUDA\\temperature_directPyd\\make_pyd.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|solutionrelative:make_pyd.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|D:\\Documents\\CUDA\\temperature_directPyd\\common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{076D4429-AB19-443D-B693-53751DDEB9C5}|temperature_directPyd.vcxproj|solutionrelative:common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "common.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_directPyd\\common.cu",
+              "RelativeDocumentMoniker": "common.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_directPyd\\common.cu",
+              "RelativeToolTip": "common.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T15:29:10.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "common.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_directPyd\\common.cuh",
+              "RelativeDocumentMoniker": "common.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_directPyd\\common.cuh",
+              "RelativeToolTip": "common.cuh",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T14:37:44.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "make_pyd.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_directPyd\\make_pyd.cuh",
+              "RelativeDocumentMoniker": "make_pyd.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_directPyd\\make_pyd.cuh",
+              "RelativeToolTip": "make_pyd.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T14:09:41.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "make_pyd.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_directPyd\\make_pyd.cu",
+              "RelativeDocumentMoniker": "make_pyd.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_directPyd\\make_pyd.cu",
+              "RelativeToolTip": "make_pyd.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T13:31:08.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  generate_data.c
+D:\Documents\CUDA\crypt\generate_data\generate_data.c(17,10): warning C4101: “ichunk”: 未引用的局部变量
+  generate_data.vcxproj -> D:\Documents\CUDA\crypt\x64\Debug\generate_data.exe

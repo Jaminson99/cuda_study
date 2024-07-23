@@ -1,0 +1,24 @@
+﻿  Compiling CUDA source file main_py.cu...
+  
+  D:\Documents\CUDA\temperature_makepy>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_60,code=\"sm_80,compute_60\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.39.33218\bin\HostX64\x64" -x cu -rdc=true  -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir temperat.E5B7EBE7\x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static -Xptxas -dlcm=ca -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdtemperat.E5B7EBE7\x64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\temperature_makepy\temperat.E5B7EBE7\x64\Debug\main_py.cu.obj "D:\Documents\CUDA\temperature_makepy\main_py.cu" 
+  main_py.cu
+  
+  D:\Documents\CUDA\temperature_makepy>"D:\CUDA\bin\nvcc.exe" -dlink -o temperat.E5B7EBE7\x64\Debug\temperature_makepy.device-link.obj -Xcompiler "/EHsc /W3 /nologo /Od /Fdtemperat.E5B7EBE7\x64\Debug\vc143.pdb /Zi /RTC1 /MDd " -LD:\CUDA\bin/crt -LD:\CUDA\bin -LD:\CUDA\lib\x64 cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib cudart.lib cudadevrt.lib  -gencode=arch=compute_60,code=sm_80 -G --machine 64 D:\Documents\CUDA\temperature_makepy\temperat.E5B7EBE7\x64\Debug\main_py.cu.obj 
+  cudart_static.lib
+  kernel32.lib
+  user32.lib
+  gdi32.lib
+  winspool.lib
+  comdlg32.lib
+  advapi32.lib
+  shell32.lib
+  ole32.lib
+  oleaut32.lib
+  uuid.lib
+  odbc32.lib
+  odbccp32.lib
+  cudart.lib
+  cudadevrt.lib
+  main_py.cu.obj
+    正在创建库 D:\Documents\CUDA\temperature_makepy\x64\Debug\temperature_makepy.lib 和对象 D:\Documents\CUDA\temperature_makepy\x64\Debug\temperature_makepy.exp
+  temperature_makepy.vcxproj -> D:\Documents\CUDA\temperature_makepy\x64\Debug\temperature_makepy.dll

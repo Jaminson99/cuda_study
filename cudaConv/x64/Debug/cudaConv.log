@@ -1,0 +1,30 @@
+﻿  Compiling CUDA source file common.cu...
+  Compiling CUDA source file main.cu...
+  
+  D:\Documents\CUDA\cudaConv>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_60,code=\"sm_80,compute_60\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.38.33129\bin\HostX64\x64" -x cu -rdc=true  -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static -Xptxas -dlcm=ca -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\cudaConv\x64\Debug\common.cu.obj "D:\Documents\CUDA\cudaConv\common.cu" 
+  
+  D:\Documents\CUDA\cudaConv>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_60,code=\"sm_80,compute_60\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.38.33129\bin\HostX64\x64" -x cu -rdc=true  -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static -Xptxas -dlcm=ca -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\cudaConv\x64\Debug\main.cu.obj "D:\Documents\CUDA\cudaConv\main.cu" 
+  common.cu
+  main.cu
+D:\Documents\CUDA\cudaConv\main.cu(51): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  
+  D:\Documents\CUDA\cudaConv>"D:\CUDA\bin\nvcc.exe" -dlink -o x64\Debug\cudaConv.device-link.obj -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /Zi /RTC1 /MDd " -LD:\CUDA\bin/crt -LD:\CUDA\bin -LD:\CUDA\lib\x64 cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib cudart.lib cudadevrt.lib  -gencode=arch=compute_60,code=sm_80 -G --machine 64 D:\Documents\CUDA\cudaConv\x64\Debug\common.cu.obj D:\Documents\CUDA\cudaConv\x64\Debug\main.cu.obj 
+  cudart_static.lib
+  kernel32.lib
+  user32.lib
+  gdi32.lib
+  winspool.lib
+  comdlg32.lib
+  advapi32.lib
+  shell32.lib
+  ole32.lib
+  oleaut32.lib
+  uuid.lib
+  odbc32.lib
+  odbccp32.lib
+  cudart.lib
+  cudadevrt.lib
+  common.cu.obj
+  main.cu.obj
+    正在创建库 D:\Documents\CUDA\cudaConv\x64\Debug\cudaConv.lib 和对象 D:\Documents\CUDA\cudaConv\x64\Debug\cudaConv.exp
+  cudaConv.vcxproj -> D:\Documents\CUDA\cudaConv\x64\Debug\cudaConv.exe

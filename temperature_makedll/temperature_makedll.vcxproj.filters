@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\glut64.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common\GL\glext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\GL\glut.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\book.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\cpu_anim.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\cpu_bitmap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gl_helper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\gpu_anim.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\class.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\descr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\init.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\internals.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\type_caster_base.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\typeid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\eigen\common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\eigen\matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\eigen\tensor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\stl\filesystem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\attr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\buffer_info.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\cast.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\chrono.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\complex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\eigen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\embed.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\eval.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\functional.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\gil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\gil_safe_call_once.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\iostream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\numpy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\operators.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\options.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\pybind11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\pytypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\stl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\stl_bind.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\type_caster_pyobject_ptr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\typing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="main_2DtexObj.cuh" />
+    <CudaCompile Include="main_2DtexObj.cu" />
+    <CudaCompile Include="common.cuh" />
+    <CudaCompile Include="common.cu" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\glut64.lib" />
+  </ItemGroup>
+</Project>

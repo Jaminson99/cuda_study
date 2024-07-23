@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CUDA\\crypt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|D:\\Documents\\CUDA\\crypt\\crypt.overlap.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|solutionrelative:crypt.overlap.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|D:\\Documents\\CUDA\\crypt\\crypt.parallelized.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|solutionrelative:crypt.parallelized.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|D:\\Documents\\CUDA\\crypt\\crypt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|solutionrelative:crypt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D4F71D-A9A3-4B70-827D-B41A94355D47}|generate_data\\generate_data.vcxproj|D:\\Documents\\CUDA\\crypt\\generate_data\\generate_data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7D4F71D-A9A3-4B70-827D-B41A94355D47}|generate_data\\generate_data.vcxproj|solutionrelative:generate_data\\generate_data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|D:\\Documents\\CUDA\\crypt\\common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6886C1B-72B5-4BCA-995B-87BFD78DD7F8}|crypt.vcxproj|solutionrelative:common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "common.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\crypt\\common.cuh",
+              "RelativeDocumentMoniker": "common.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\crypt\\common.cuh",
+              "RelativeToolTip": "common.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-21T08:32:17.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crypt.c",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\crypt\\crypt.c",
+              "RelativeDocumentMoniker": "crypt.c",
+              "ToolTip": "D:\\Documents\\CUDA\\crypt\\crypt.c",
+              "RelativeToolTip": "crypt.c",
+              "ViewState": "AQIAAFABAAAAAAAAAAAAAKoBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2023-11-21T07:09:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "generate_data.c",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\crypt\\generate_data\\generate_data.c",
+              "RelativeDocumentMoniker": "generate_data\\generate_data.c",
+              "ToolTip": "D:\\Documents\\CUDA\\crypt\\generate_data\\generate_data.c",
+              "RelativeToolTip": "generate_data\\generate_data.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2023-11-21T07:01:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crypt.overlap.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\crypt\\crypt.overlap.cu",
+              "RelativeDocumentMoniker": "crypt.overlap.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\crypt\\crypt.overlap.cu",
+              "RelativeToolTip": "crypt.overlap.cu",
+              "ViewState": "AQIAAI8AAAAAAAAAAAA3wKcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-21T12:48:03.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crypt.parallelized.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\crypt\\crypt.parallelized.cu",
+              "RelativeDocumentMoniker": "crypt.parallelized.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\crypt\\crypt.parallelized.cu",
+              "RelativeToolTip": "crypt.parallelized.cu",
+              "ViewState": "AQIAABcBAAAAAAAAAAAowC4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-21T08:30:13.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

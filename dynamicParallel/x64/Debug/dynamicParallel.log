@@ -1,0 +1,26 @@
+﻿  Compiling CUDA source file dynamicParalle.cu...
+  
+  D:\Documents\CUDA\dynamicParallel>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.38.33030\bin\HostX64\x64" -x cu -rdc=true  -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\dynamicParallel\x64\Debug\dynamicParalle.cu.obj "D:\Documents\CUDA\dynamicParallel\dynamicParalle.cu" 
+  dynamicParalle.cu
+D:\Documents\CUDA\dynamicParallel\dynamicParalle.cu(93): warning C4018: “<”: 有符号/无符号不匹配
+D:\Documents\CUDA\dynamicParallel\dynamicParalle.cu(98): warning C4018: “<”: 有符号/无符号不匹配
+  
+  D:\Documents\CUDA\dynamicParallel>"D:\CUDA\bin\nvcc.exe" -dlink -o x64\Debug\dynamicParallel.device-link.obj -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /Zi /RTC1 /MDd " -LD:\CUDA\bin/crt -LD:\CUDA\bin -LD:\CUDA\lib\x64 cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib cudart.lib cudadevrt.lib  -gencode=arch=compute_52,code=sm_52 -G --machine 64 D:\Documents\CUDA\dynamicParallel\x64\Debug\common.cu.obj D:\Documents\CUDA\dynamicParallel\x64\Debug\dynamicParalle.cu.obj 
+  cudart_static.lib
+  kernel32.lib
+  user32.lib
+  gdi32.lib
+  winspool.lib
+  comdlg32.lib
+  advapi32.lib
+  shell32.lib
+  ole32.lib
+  oleaut32.lib
+  uuid.lib
+  odbc32.lib
+  odbccp32.lib
+  cudart.lib
+  cudadevrt.lib
+  common.cu.obj
+  dynamicParalle.cu.obj
+  dynamicParallel.vcxproj -> D:\Documents\CUDA\dynamicParallel\x64\Debug\dynamicParallel.exe

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CUDA\\temperature\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|D:\\Documents\\CUDA\\temperature\\main_2DtexObj.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|solutionrelative:main_2DtexObj.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|D:\\Documents\\CUDA\\temperature\\common\\cpu_anim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|solutionrelative:common\\cpu_anim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|D:\\Documents\\CUDA\\temperature\\common\\book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|solutionrelative:common\\book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|D:\\Documents\\CUDA\\temperature\\common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|solutionrelative:common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|D:\\Documents\\CUDA\\temperature\\common.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|solutionrelative:common.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|D:\\Documents\\CUDA\\temperature\\common\\gl_helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{355CD1D6-0720-401C-9FE9-FD89E213CBB2}|temperature.vcxproj|solutionrelative:common\\gl_helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cpu_anim.h",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature\\common\\cpu_anim.h",
+              "RelativeDocumentMoniker": "common\\cpu_anim.h",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature\\common\\cpu_anim.h",
+              "RelativeToolTip": "common\\cpu_anim.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA1wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-28T06:28:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "common.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature\\common.cu",
+              "RelativeDocumentMoniker": "common.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature\\common.cu",
+              "RelativeToolTip": "common.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-28T07:56:40.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gl_helper.h",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature\\common\\gl_helper.h",
+              "RelativeDocumentMoniker": "common\\gl_helper.h",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature\\common\\gl_helper.h",
+              "RelativeToolTip": "common\\gl_helper.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-27T09:16:36.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "common.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature\\common.cuh",
+              "RelativeDocumentMoniker": "common.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature\\common.cuh",
+              "RelativeToolTip": "common.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-27T09:12:24.326Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "book.h",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature\\common\\book.h",
+              "RelativeDocumentMoniker": "common\\book.h",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature\\common\\book.h",
+              "RelativeToolTip": "common\\book.h",
+              "ViewState": "AQIAACgAAAAAAAAAAIA1wEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-27T09:14:27.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_2DtexObj.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature\\main_2DtexObj.cu",
+              "RelativeDocumentMoniker": "main_2DtexObj.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature\\main_2DtexObj.cu",
+              "RelativeToolTip": "main_2DtexObj.cu",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-28T07:12:33.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CUDA\\cudaConv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17CB27B1-E145-4617-8903-740F0ECBE1CE}|cudaConv.vcxproj|D:\\Documents\\CUDA\\cudaConv\\common.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17CB27B1-E145-4617-8903-740F0ECBE1CE}|cudaConv.vcxproj|solutionrelative:common.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CB27B1-E145-4617-8903-740F0ECBE1CE}|cudaConv.vcxproj|D:\\Documents\\CUDA\\cudaConv\\main.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{17CB27B1-E145-4617-8903-740F0ECBE1CE}|cudaConv.vcxproj|solutionrelative:main.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "common.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\cudaConv\\common.cu",
+              "RelativeDocumentMoniker": "common.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\cudaConv\\common.cu",
+              "RelativeToolTip": "common.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-06T11:57:57.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\cudaConv\\main.cu",
+              "RelativeDocumentMoniker": "main.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\cudaConv\\main.cu",
+              "RelativeToolTip": "main.cu",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-06T12:01:14.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

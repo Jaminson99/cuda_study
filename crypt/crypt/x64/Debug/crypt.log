@@ -1,0 +1,20 @@
+﻿  Skipping CUDA source file crypt.parallelized.cu (excluded from build).
+  Compiling CUDA source file common.cu...
+  Compiling CUDA source file crypt.overlap.cu...
+  
+  D:\Documents\CUDA\crypt>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.39.33218\bin\HostX64\x64" -x cu   -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir crypt\x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DCODE_ANALYSIS -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdcrypt\x64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\crypt\crypt\x64\Debug\common.cu.obj "D:\Documents\CUDA\crypt\common.cu" 
+  
+  D:\Documents\CUDA\crypt>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Visual Studio\VC\Tools\MSVC\14.39.33218\bin\HostX64\x64" -x cu   -ID:\CUDA\include -ID:\CUDA\include  -G   --keep-dir crypt\x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DCODE_ANALYSIS -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdcrypt\x64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o D:\Documents\CUDA\crypt\crypt\x64\Debug\crypt.overlap.cu.obj "D:\Documents\CUDA\crypt\crypt.overlap.cu" 
+  common.cu
+  crypt.overlap.cu
+D:\Documents\CUDA\crypt\crypt.overlap.cu(442): warning C4477: “fprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Documents\CUDA\crypt\crypt.overlap.cu(442): note: 请考虑在格式字符串中使用“%zu”
+D:\Documents\CUDA\crypt\crypt.overlap.cu(442): warning C4477: “fprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  D:\Documents\CUDA\crypt\crypt.overlap.cu(442): note: 请考虑在格式字符串中使用“%llu”
+  D:\Documents\CUDA\crypt\crypt.overlap.cu(442): note: 请考虑在格式字符串中使用“%Iu”
+  D:\Documents\CUDA\crypt\crypt.overlap.cu(442): note: 请考虑在格式字符串中使用“%I64u”
+D:\Documents\CUDA\crypt\crypt.overlap.cu(475): warning C4477: “fprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+  D:\Documents\CUDA\crypt\crypt.overlap.cu(475): note: 请考虑在格式字符串中使用“%zu”
+D:\Documents\CUDA\crypt\crypt.overlap.cu(484): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 D:\Documents\CUDA\crypt\x64\Debug\crypt.lib 和对象 D:\Documents\CUDA\crypt\x64\Debug\crypt.exp
+  crypt.vcxproj -> D:\Documents\CUDA\crypt\x64\Debug\crypt.exe

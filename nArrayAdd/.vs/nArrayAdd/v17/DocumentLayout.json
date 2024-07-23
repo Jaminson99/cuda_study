@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CUDA\\nArrayAdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{891FC279-6EB8-4106-9C3E-A057C6C77187}|nArrayAdd.vcxproj|D:\\Documents\\CUDA\\nArrayAdd\\add.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{891FC279-6EB8-4106-9C3E-A057C6C77187}|nArrayAdd.vcxproj|solutionrelative:add.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891FC279-6EB8-4106-9C3E-A057C6C77187}|nArrayAdd.vcxproj|D:\\Documents\\CUDA\\nArrayAdd\\common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{891FC279-6EB8-4106-9C3E-A057C6C77187}|nArrayAdd.vcxproj|solutionrelative:common.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891FC279-6EB8-4106-9C3E-A057C6C77187}|nArrayAdd.vcxproj|D:\\Documents\\CUDA\\nArrayAdd\\add.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{891FC279-6EB8-4106-9C3E-A057C6C77187}|nArrayAdd.vcxproj|solutionrelative:add.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "common.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\nArrayAdd\\common.cuh",
+              "RelativeDocumentMoniker": "common.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\nArrayAdd\\common.cuh",
+              "RelativeToolTip": "common.cuh",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-12T07:04:23.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\nArrayAdd\\add.cuh",
+              "RelativeDocumentMoniker": "add.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\nArrayAdd\\add.cuh",
+              "RelativeToolTip": "add.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-12T06:13:16.044Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\nArrayAdd\\add.cu",
+              "RelativeDocumentMoniker": "add.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\nArrayAdd\\add.cu",
+              "RelativeToolTip": "add.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-12T06:18:57.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

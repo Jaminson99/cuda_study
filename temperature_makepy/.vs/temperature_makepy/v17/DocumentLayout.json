@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CUDA\\temperature_makepy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B7EBE7-1142-4FC4-9577-2AA1A38E356B}|temperature_makepy.vcxproj|D:\\Documents\\CUDA\\temperature_makepy\\main_py.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5B7EBE7-1142-4FC4-9577-2AA1A38E356B}|temperature_makepy.vcxproj|solutionrelative:main_py.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B7EBE7-1142-4FC4-9577-2AA1A38E356B}|temperature_makepy.vcxproj|D:\\Documents\\CUDA\\temperature_makepy\\main_2DtexObj.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5B7EBE7-1142-4FC4-9577-2AA1A38E356B}|temperature_makepy.vcxproj|solutionrelative:main_2DtexObj.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B7EBE7-1142-4FC4-9577-2AA1A38E356B}|temperature_makepy.vcxproj|D:\\Documents\\CUDA\\temperature_makepy\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5B7EBE7-1142-4FC4-9577-2AA1A38E356B}|temperature_makepy.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_py.cu",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_makepy\\main_py.cu",
+              "RelativeDocumentMoniker": "main_py.cu",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_makepy\\main_py.cu",
+              "RelativeToolTip": "main_py.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T09:50:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_2DtexObj.cuh",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_makepy\\main_2DtexObj.cuh",
+              "RelativeDocumentMoniker": "main_2DtexObj.cuh",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_makepy\\main_2DtexObj.cuh",
+              "RelativeToolTip": "main_2DtexObj.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-01T09:37:23.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Documents\\CUDA\\temperature_makepy\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\Documents\\CUDA\\temperature_makepy\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-01T09:34:24.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

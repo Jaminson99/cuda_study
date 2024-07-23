@@ -1,0 +1,1 @@
+D:\Documents\CUDA\asynVsum\x64\Debug\asynVsum.exe
